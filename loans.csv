@@ -1,0 +1,6 @@
+loan_id,customer_id,loan_amount,loan_type,interest_rate,loan_status
+201,1,500000.00,"Home Loan",7.50,Approved
+202,2,300000.00,"Personal Loan",10.50,Approved
+203,3,250000.00,"Car Loan",8.20,Pending
+204,4,700000.00,"Home Loan",7.10,Approved
+205,5,150000.00,"Personal Loan",11.00,Rejected

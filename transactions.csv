@@ -1,0 +1,6 @@
+transaction_id,customer_id,amount,transaction_type,transaction_date
+101,1,5000.00,Deposit,2026-01-10
+102,2,12000.00,Withdrawal,2026-01-15
+103,3,7000.00,Deposit,2026-02-05
+104,4,20000.00,Deposit,2026-02-20
+105,5,3000.00,Withdrawal,2026-03-01
